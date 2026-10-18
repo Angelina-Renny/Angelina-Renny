@@ -13,3 +13,18 @@ I'm passionate about exploring how technology, data, and artificial intelligence
 ### 🤝 Let's Connect
 
 Thanks for visiting my GitHub profile!
+
+## 🛠️ Skills & Technologies
+
+### Currently Exploring
+- 🐍 Python
+- 📊 Data Analytics
+- 🤖 Artificial Intelligence & Machine Learning
+- 📈 Excel and Power BI
+- 🗃️ SQL and databases
+
+### What I Enjoy
+- 💡 Solving real-world problems
+- 📊 Finding insights in data
+- 🚀 Building practical projects
+- 🌱 Learning something new every day
